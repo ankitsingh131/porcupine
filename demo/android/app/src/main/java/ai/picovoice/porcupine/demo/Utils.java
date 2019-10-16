@@ -71,7 +71,7 @@ final class Utils {
     private static void copyPorcupineConfigFiles(Context context) {
         int[] resIds = {
                 R.raw.americano, R.raw.blueberry, R.raw.bumblebee, R.raw.grapefruit,
-                R.raw.grasshopper, R.raw.picovoice, R.raw.porcupine, R.raw.hey_pico,
+                R.raw.grasshopper, R.raw.picovoice, R.raw.porcupine, R.raw.hey_pico, R.raw.louie,
                 R.raw.terminator, R.raw.params
         };
         Resources resources = context.getResources();
